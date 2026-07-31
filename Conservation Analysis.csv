@@ -1,0 +1,152 @@
+Position,Consensus Residue,Conservation (%),Status
+1,M,100.0,Fully Conserved
+2,A,100.0,Fully Conserved
+3,G,100.0,Fully Conserved
+4,L,100.0,Fully Conserved
+5,L,100.0,Fully Conserved
+6,K,100.0,Fully Conserved
+7,R,100.0,Fully Conserved
+8,L,50.0,Variable
+9,G,100.0,Fully Conserved
+10,V,50.0,Variable
+11,N,50.0,Variable
+12,P,50.0,Variable
+13,I,100.0,Fully Conserved
+14,K,100.0,Fully Conserved
+15,P,100.0,Fully Conserved
+16,V,100.0,Fully Conserved
+17,G,100.0,Fully Conserved
+18,T,50.0,Variable
+19,P,50.0,Variable
+20,G,50.0,Variable
+21,Q,50.0,Variable
+22,G,50.0,Variable
+23,T,100.0,Fully Conserved
+24,W,50.0,Variable
+25,P,50.0,Variable
+26,S,50.0,Variable
+27,A,50.0,Variable
+28,S,50.0,Variable
+29,L,50.0,Variable
+30,R,100.0,Fully Conserved
+31,P,50.0,Variable
+32,A,50.0,Variable
+33,C,50.0,Variable
+34,L,50.0,Variable
+35,P,50.0,Variable
+36,G,100.0,Fully Conserved
+37,H,100.0,Fully Conserved
+38,C,100.0,Fully Conserved
+39,P,100.0,Fully Conserved
+40,S,100.0,Fully Conserved
+41,A,100.0,Fully Conserved
+42,M,100.0,Fully Conserved
+43,A,100.0,Fully Conserved
+44,L,100.0,Fully Conserved
+45,W,100.0,Fully Conserved
+46,M,100.0,Fully Conserved
+47,R,100.0,Fully Conserved
+48,L,100.0,Fully Conserved
+49,L,100.0,Fully Conserved
+50,P,100.0,Fully Conserved
+51,L,100.0,Fully Conserved
+52,L,100.0,Fully Conserved
+53,A,83.33333333333334,Partially Conserved
+54,L,100.0,Fully Conserved
+55,L,100.0,Fully Conserved
+56,A,100.0,Fully Conserved
+57,L,100.0,Fully Conserved
+58,W,100.0,Fully Conserved
+59,G,100.0,Fully Conserved
+60,P,100.0,Fully Conserved
+61,D,100.0,Fully Conserved
+62,P,100.0,Fully Conserved
+63,V,50.0,Variable
+64,P,50.0,Variable
+65,A,100.0,Fully Conserved
+66,F,100.0,Fully Conserved
+67,V,100.0,Fully Conserved
+68,N,100.0,Fully Conserved
+69,Q,100.0,Fully Conserved
+70,H,100.0,Fully Conserved
+71,L,100.0,Fully Conserved
+72,C,100.0,Fully Conserved
+73,G,100.0,Fully Conserved
+74,S,100.0,Fully Conserved
+75,H,100.0,Fully Conserved
+76,L,100.0,Fully Conserved
+77,V,100.0,Fully Conserved
+78,E,100.0,Fully Conserved
+79,A,100.0,Fully Conserved
+80,L,100.0,Fully Conserved
+81,Y,100.0,Fully Conserved
+82,L,100.0,Fully Conserved
+83,V,100.0,Fully Conserved
+84,C,100.0,Fully Conserved
+85,G,100.0,Fully Conserved
+86,E,100.0,Fully Conserved
+87,R,100.0,Fully Conserved
+88,G,100.0,Fully Conserved
+89,F,100.0,Fully Conserved
+90,F,100.0,Fully Conserved
+91,Y,100.0,Fully Conserved
+92,T,100.0,Fully Conserved
+93,P,100.0,Fully Conserved
+94,K,100.0,Fully Conserved
+95,T,100.0,Fully Conserved
+96,R,100.0,Fully Conserved
+97,R,100.0,Fully Conserved
+98,E,100.0,Fully Conserved
+99,A,100.0,Fully Conserved
+100,E,100.0,Fully Conserved
+101,D,100.0,Fully Conserved
+102,P,50.0,Variable
+103,Q,100.0,Fully Conserved
+104,V,100.0,Fully Conserved
+105,G,100.0,Fully Conserved
+106,Q,100.0,Fully Conserved
+107,V,100.0,Fully Conserved
+108,E,100.0,Fully Conserved
+109,L,100.0,Fully Conserved
+110,G,100.0,Fully Conserved
+111,G,100.0,Fully Conserved
+112,G,100.0,Fully Conserved
+113,P,100.0,Fully Conserved
+114,G,100.0,Fully Conserved
+115,A,100.0,Fully Conserved
+116,G,100.0,Fully Conserved
+117,S,100.0,Fully Conserved
+118,L,100.0,Fully Conserved
+119,Q,100.0,Fully Conserved
+120,P,100.0,Fully Conserved
+121,L,100.0,Fully Conserved
+122,A,100.0,Fully Conserved
+123,L,100.0,Fully Conserved
+124,E,100.0,Fully Conserved
+125,G,100.0,Fully Conserved
+126,S,100.0,Fully Conserved
+127,L,100.0,Fully Conserved
+128,Q,100.0,Fully Conserved
+129,K,100.0,Fully Conserved
+130,R,100.0,Fully Conserved
+131,G,100.0,Fully Conserved
+132,I,100.0,Fully Conserved
+133,V,100.0,Fully Conserved
+134,E,100.0,Fully Conserved
+135,Q,100.0,Fully Conserved
+136,C,100.0,Fully Conserved
+137,C,100.0,Fully Conserved
+138,T,100.0,Fully Conserved
+139,S,100.0,Fully Conserved
+140,I,100.0,Fully Conserved
+141,C,100.0,Fully Conserved
+142,S,100.0,Fully Conserved
+143,L,100.0,Fully Conserved
+144,Y,100.0,Fully Conserved
+145,Q,100.0,Fully Conserved
+146,L,100.0,Fully Conserved
+147,E,100.0,Fully Conserved
+148,N,100.0,Fully Conserved
+149,Y,100.0,Fully Conserved
+150,C,100.0,Fully Conserved
+151,N,100.0,Fully Conserved
